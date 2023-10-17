@@ -4,7 +4,7 @@ The goal of developing this project is to demonstrate and investigate the workfl
 
 ### About dataset
 
-The dataset is provided by [Pacmann.io](https://pacmann.io/) in Business Analytics module. The dataset contains 53 columns and 180520 rows of information about the supply chain domain area. The dataset contains information about customers, orders, departments, products, sales, profits, and shipments.
+The dataset is provided by kaggle which can be downloaded [here](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/). The dataset contains 53 columns and 180520 rows of information about the supply chain domain area. The dataset contains information about customers, orders, departments, products, sales, profits, and shipments.
 
 
 ### Key learning
